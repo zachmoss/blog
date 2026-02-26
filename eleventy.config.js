@@ -45,7 +45,7 @@ export default function(eleventyConfig) {
     themeColor: '#c45d2c',
     stylesheets: ['/assets/styles.css'],
     titleSuffix: 'Zach Moss',
-    url: process.env.GITHUB_ACTIONS && 'https://zachmoss.github.io/blog/'
+    url: process.env.GITHUB_ACTIONS && 'https://www.zachmoss.co.uk/'
   })
 
   // Collections
@@ -55,6 +55,7 @@ export default function(eleventyConfig) {
 
   // Pass through
   eleventyConfig.addPassthroughCopy('./app/images')
+  eleventyConfig.addPassthroughCopy('./app/CNAME')
 
   return {
     dataTemplateEngine: 'njk',
@@ -63,6 +64,6 @@ export default function(eleventyConfig) {
     dir: {
       input: 'app'
     },
-    pathPrefix: process.env.GITHUB_ACTIONS ? '/blog/' : '/'
+    pathPrefix: '/'
   }
 };
