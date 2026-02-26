@@ -1,4 +1,4 @@
-This is a personal blog used to document my journey with my allotment.
+This is a personal blog.
 
 The format for the blog has been forked from Frankie Roberto's NHS notes website.
 
