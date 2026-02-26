@@ -7,7 +7,7 @@ export default function(eleventyConfig) {
     templates: {
       feed: {
         permalink: '/posts/feed.xml',
-        title: 'Allotment notes'
+        title: 'Zach Moss'
       },
       tags: false,
       searchIndex: false,
@@ -15,17 +15,17 @@ export default function(eleventyConfig) {
     },
     header: {
       logotype: {
-        text: 'Allotment notes'
+        text: 'Zach Moss'
       },
       productName: "",
-      organisationName: "Allotment notes"
+      organisationName: "Zach Moss"
     },
     footer: {
       copyright: {
-        text: '© 2026–2027'
+        text: '© 2026'
       },
       contentLicence: {
-        text: "This is a personal blog."
+        text: "A personal blog."
       },
       logo: false,
       meta: {
@@ -42,10 +42,10 @@ export default function(eleventyConfig) {
       touch: false,
       mask: false
     },
-    themeColor: '#4a7c59',
+    themeColor: '#333333',
     stylesheets: ['/assets/styles.css'],
-    titleSuffix: 'Allotment notes',
-    url: process.env.GITHUB_ACTIONS && 'https://zachmoss.github.io/allotmentnotes/'
+    titleSuffix: 'Zach Moss',
+    url: process.env.GITHUB_ACTIONS && 'https://zachmoss.github.io/blog/'
   })
 
   // Collections
@@ -63,6 +63,6 @@ export default function(eleventyConfig) {
     dir: {
       input: 'app'
     },
-    pathPrefix: process.env.GITHUB_ACTIONS ? '/allotmentnotes/' : '/'
+    pathPrefix: process.env.GITHUB_ACTIONS ? '/blog/' : '/'
   }
 };

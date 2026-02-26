@@ -1,11 +1,11 @@
 {
-  "name": "adrtnotes",
+  "name": "blog",
   "version": "1.0.0",
-  "description": "Notes from the Compassion in Dying ADRT team",
-  "homepage": "https://adrtnotes.compassionindying.org.uk/",
+  "description": "Zach Moss - personal blog",
+  "homepage": "https://zachmoss.github.io/blog/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zachmoss/adrtnotes.git"
+    "url": "https://github.com/zachmoss/blog.git"
   },
   "scripts": {
     "build": "eleventy --quiet",
