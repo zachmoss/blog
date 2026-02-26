@@ -42,7 +42,7 @@ export default function(eleventyConfig) {
       touch: false,
       mask: false
     },
-    themeColor: '#333333',
+    themeColor: '#c45d2c',
     stylesheets: ['/assets/styles.css'],
     titleSuffix: 'Zach Moss',
     url: process.env.GITHUB_ACTIONS && 'https://zachmoss.github.io/blog/'
