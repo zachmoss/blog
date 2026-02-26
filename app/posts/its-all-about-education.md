@@ -1,6 +1,6 @@
 ---
 title: "It’s all about education..."
-description: ""
+description: "Using our FOI results to plan education and training for healthcare staff."
 date: 2025-11-06
 ---
 

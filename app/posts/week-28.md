@@ -1,6 +1,6 @@
 ---
 title: "Week 28: content crit, complexity and clarification"
-description: "content crit, complexity and clarification"
+description: "A content crit on best interests decisions and options for challenging poor care."
 date: 2024-03-08
 ---
 

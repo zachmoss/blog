@@ -1,6 +1,6 @@
 ---
 title: "Week 30: how to prioritise internal systems and needs"
-description: "how to prioritise internal systems and needs"
+description: "Proposing an internal knowledge base to retain what we know and improve consistency."
 date: 2024-05-17
 ---
 

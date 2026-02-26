@@ -1,6 +1,6 @@
 ---
 title: "End of year reflection: 2025"
-description: ""
+description: "A year of sabbatical travel, work strategy challenges and an upcoming wedding."
 date: 2025-12-19
 ---
 

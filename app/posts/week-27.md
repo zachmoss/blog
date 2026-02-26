@@ -1,6 +1,6 @@
 ---
 title: "Week 27: writing and content testing"
-description: "writing and content testing"
+description: "Good writing matters and the challenge of testing content for everyone."
 date: 2024-02-09
 ---
 

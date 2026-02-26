@@ -1,6 +1,6 @@
 ---
 title: "Week 25: thinking about this past year"
-description: "thinking about this past year"
+description: "Annual review — work, a health scare, a new relationship and lessons about mortality."
 date: 2023-12-22
 ---
 

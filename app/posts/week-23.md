@@ -1,6 +1,6 @@
 ---
 title: "Week 23: NHS, renewing a passport and UKCharityCamp"
-description: "NHS, renewing a passport and UKCharityCamp"
+description: "MoneySavingExpert for the NHS, new passport and an unconference in Birmingham."
 date: 2023-12-01
 ---
 

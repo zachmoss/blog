@@ -1,6 +1,6 @@
 ---
 title: "Week 37: forgiveness and new energy"
-description: "forgiveness and new energy"
+description: "Back from a 3-month sabbatical in Japan with renewed energy and motivation."
 date: 2025-09-04
 ---
 

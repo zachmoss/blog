@@ -1,6 +1,6 @@
 ---
 title: "A new process for updating our advance decision form"
-description: ""
+description: "A new continuous improvement process to avoid inertia in form updates."
 date: 2025-11-27
 ---
 

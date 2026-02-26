@@ -1,6 +1,6 @@
 ---
 title: "Week 31: bits and pieces"
-description: "bits and pieces"
+description: "Launching our best interests content and reflecting on contrasting professional meetings."
 date: 2024-06-07
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Week 22: Closure, catharsis and crimping"
-description: "Closure, catharsis and crimping"
+description: "Starting user research with real people and why talking about trauma can be cathartic."
 date: 2023-11-24
 ---
 

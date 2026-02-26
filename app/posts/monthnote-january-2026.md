@@ -1,6 +1,6 @@
 ---
 title: "Monthnote: January 2026"
-description: ""
+description: "Organisational strategy, the practitioner vs manager question and AI's potential."
 date: 2026-02-18
 ---
 
@@ -62,7 +62,10 @@ Suffice to say, I saw almost overnight how AI could fundamentally change my role
 
 I have officially taken ownership of an allotment plot locally. After nearly 8 years waiting!
 
-![](/images/blot-30glm.JPG)
+<figure>
+  <img src="/images/blot-30glm.JPG" alt="My new plot">
+  <figcaption>My new plot</figcaption>
+</figure>
 
 I’ve decided to [setup a separate blog](https://zachmoss.github.io/allotmentnotes/) for now to track the journey - let’s see how that goes. 
 
@@ -76,8 +79,8 @@ Oh, and I’m getting married very soon. I’ll be one of those married people w
 
 - [Monthnote: January 2026](https://jiggott.medium.com/monthnote-january-2026-715910537fa9). James doing great, reflective work as always at the NHS.
 
-- [How to work better](https://boringmagi.cc/2026/01/09/how-to-work-better/). Another one from Steve - just stumbled across this but I like!\
+- [How to work better](https://boringmagi.cc/2026/01/09/how-to-work-better/). Another one from Steve - just stumbled across this but I like!
 
-- [Move over Dr Google: the inevitable rise of Dr ChatGPT](https://www.digitalhealth.net/2026/01/move-over-dr-google-the-inevitable-rise-of-dr-chatgpt/). A reminder I need to be following Pritesh’s writing much closer! Conversation on AI and health will only get bigger and louder.\
+- [Move over Dr Google: the inevitable rise of Dr ChatGPT](https://www.digitalhealth.net/2026/01/move-over-dr-google-the-inevitable-rise-of-dr-chatgpt/). A reminder I need to be following Pritesh’s writing much closer! Conversation on AI and health will only get bigger and louder.
 
 - [Good conductors required](https://buttondown.com/tumshie/archive/good-conductors-required/). A great post about generalists. This is a growing thing I’m mulling - the (maybe increasing) value of digital generalists.

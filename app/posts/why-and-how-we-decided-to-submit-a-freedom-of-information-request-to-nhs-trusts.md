@@ -1,6 +1,6 @@
 ---
 title: "Why (and how) we decided to submit a freedom of information request to NHS Trusts"
-description: ""
+description: "An FOI request to NHS Trusts revealing inconsistent advance decision guidance."
 date: 2025-10-28
 ---
 

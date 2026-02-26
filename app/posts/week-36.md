@@ -1,6 +1,6 @@
 ---
 title: "Week 36: thinking about this past year"
-description: "thinking about this past year"
+description: "End-of-year reflection — work struggles, sabbatical plans and family health challenges."
 date: 2024-12-20
 ---
 

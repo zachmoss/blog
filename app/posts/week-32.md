@@ -1,6 +1,6 @@
 ---
 title: "Week 32: alignment and expectations"
-description: "alignment and expectations"
+description: "Addressing team communication gaps and planning an internal knowledge base workshop."
 date: 2024-06-21
 ---
 
