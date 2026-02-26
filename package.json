@@ -1,0 +1,24 @@
+{
+  "name": "adrtnotes",
+  "version": "1.0.0",
+  "description": "Notes from the Compassion in Dying ADRT team",
+  "homepage": "https://adrtnotes.compassionindying.org.uk/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zachmoss/adrtnotes.git"
+  },
+  "scripts": {
+    "build": "eleventy --quiet",
+    "start": "eleventy --serve --quiet"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@x-govuk/govuk-eleventy-plugin": "^8.3.0",
+    "govuk-frontend": "^5.14.0"
+  },
+  "engines": {
+    "node": "^24"
+  },
+  "private": true,
+  "type": "module"
+}
