@@ -8,14 +8,23 @@ eleventyNavigation:
   parent: Pages
 ---
 
-A collection of blogs and websites I enjoy reading.
+A collection of blogs I like reading.
 
-- [Neil Williams](https://neilojwilliams.net/)
-- [Steve Messer](https://visitmy.website/tag/weeknotes/)
-- [Giles Turnbull](https://gilest.org/index.html)
-- [Alice Bartlett](https://alicebartlett.co.uk/blog/)
-- [Helen Lewis](https://helenlewis.substack.com/)
-- [Matt Jukes](https://digitalbydefault.com/)
-- [Himal Mandalia](https://himalmandalia.medium.com/)
-- [Frankie Roberto](https://frankieroberto.github.io/nhsnotes/)
-- [Tom Loosemore](https://loosemore.com/)
+Also, because I don't like RSS feed readers and inspired by [Stefano Verna](https://squeaki.sh/p/i-turned-my-website-into-my-feed-reader/) this page lists the authors three latest posts so I (or maybe you) don't miss them.
+
+{% for blog in blogroll %}
+### [{{ blog.name }}]({{ blog.url }})
+
+{% if blog.posts.length %}
+Latest posts:
+
+<ul class="govuk-list govuk-list--bullet">
+{% for post in blog.posts %}
+  <li><a class="govuk-link" href="{{ post.link }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% else %}
+No recent posts found.
+{% endif %}
+
+{% endfor %}

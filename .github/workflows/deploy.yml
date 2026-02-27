@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 9 * * 1'
 
 # Set permissions of GITHUB_TOKEN
 permissions:
