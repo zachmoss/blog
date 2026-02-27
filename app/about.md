@@ -26,9 +26,12 @@ I'm kind of a digital person, but in many ways a generalist. I work at a small c
 ## This website
 Most of the code for this website was ~~stolen~~ copied from [Frankie Roberto](https://github.com/frankieroberto). Thanks to him. And to the talented people at GOV.UK who put together [this handy website](https://govuk-eleventy-plugin.x-govuk.org/).
 
+This site [gets an "A" rating](https://www.websitecarbon.com/website/zachmoss-co-uk/) from the Website Carbon Calculator.
+
 ## More ways to connect
 If you are so inclined, you can follow me on:
 - [Bluesky](https://bsky.app/profile/zachmoss.bsky.social)
 - [Linkedin](https://www.linkedin.com/in/zach-moss/)
 - [Instagram](https://www.instagram.com/zachmoss/)
 - [GitHub](https://github.com/zachmoss)
+- Subscribe to the [RSS feed](https://zachmoss.co.uk/posts/feed.xml)

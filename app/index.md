@@ -8,9 +8,9 @@ pagination:
   size: 20
   reverse: true
 aside:
-  title: About
+  title: Summary
   content: |
-    This is my blog where I mostly write weeknotes. Not to be confused with my <a href="https://zachmoss.github.io/allotmentnotes/">allotment blog</a>.
+    This is my blog where I mostly write weeknotes. Not to be confused with my <a class="govuk-link" href="https://zachmoss.github.io/allotmentnotes/">allotment blog</a>.
 related:
   sections:
     - title: Links
