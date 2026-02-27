@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: collection
-title: Zach Moss
-description: A personal blog
+title: Some thoughts about work
+description: And other things
 pagination:
   data: collections.post
   size: 20
