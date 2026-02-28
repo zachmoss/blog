@@ -2,6 +2,8 @@
 title: "Week 9"
 description: "Nearly there (still)"
 date: 2023-02-03
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-09-5d9ecc4d.jpeg)

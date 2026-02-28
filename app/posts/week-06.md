@@ -2,6 +2,8 @@
 title: "Week 6"
 description: "A visit to hospital"
 date: 2022-12-16
+tags:
+  - Weeknotes
 ---
 
 ![Picture of me in my recovery bed at the Whittington hospital with some Bourbon biscuits.](/images/week-06-c0597aad.jpeg)

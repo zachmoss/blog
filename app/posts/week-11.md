@@ -2,6 +2,8 @@
 title: "Week 11"
 description: "New website, Paris and a big new project"
 date: 2023-03-03
+tags:
+  - Weeknotes
 ---
 
 ![A picture of my laptop and a plate of delicious scrambled eggs on toast.](/images/week-11-7d5faa98.jpeg)

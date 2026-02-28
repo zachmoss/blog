@@ -2,6 +2,8 @@
 title: "Week 29: DNR decisions, conscious competence and prototyping"
 description: "DNR communication failures, unconscious competence and prototyping with the GOV.UK kit."
 date: 2024-03-22
+tags:
+  - Weeknotes
 ---
 
 <figure>

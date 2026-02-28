@@ -2,6 +2,8 @@
 title: "Monthnote: January 2026"
 description: "Organisational strategy, the practitioner vs manager question and AI's potential."
 date: 2026-02-18
+tags:
+  - Monthnotes
 ---
 
 Not the best blogging start to the year... but not for lack of ideas!

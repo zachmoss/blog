@@ -1,14 +1,16 @@
 ---
-title: "End of year reflection: 2025"
+title: "Yearnote: 2025"
 description: "A year of sabbatical travel, work strategy challenges and an upcoming wedding."
 date: 2025-12-19
+tags:
+  - Yearnotes
 ---
 
 This will be the fourth year of writing an end of year reflection, I guess that makes it a ritual?
 
 Of all the writing which I try and mostly fail to publish, I think end of year notes are the most satisfying. They make the most sense in terms of having something to re-read, and at the same time making it a nice thing to do at the end of each year. 
 
-It’s nice to read them back, here are mine from [2022](https://medium.com/@_zachmoss/week-7-b149b2a01cab), [2023](https://zachmoss.co.uk/week-25-thinking-about-this-past-year) and [2024](https://zachmoss.co.uk/week-36-thinking-about-this-past-year) in case you’re interested.
+It’s nice to read them back, here are mine from [2022](/posts/yearnote-2022/), [2023](/posts/yearnote-2023/) and [2024](/posts/yearnote-2024/) in case you’re interested.
 
 So, what of this year?
 
@@ -38,7 +40,7 @@ More on this another time.
 
 ## Taking a sabbatical!
 
-I mentioned in my [end of year post last year](https://zachmoss.co.uk/week-36-thinking-about-this-past-year) I’d been granted a sabbatical to take. And take it I did!
+I mentioned in my [end of year post last year](/posts/yearnote-2024/) I’d been granted a sabbatical to take. And take it I did!
 
 Me and my partner were very lucky to be able to take 3.5 months off. 
 

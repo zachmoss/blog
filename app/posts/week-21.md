@@ -2,6 +2,8 @@
 title: "Week 21: User research, team alignment and movies"
 description: "Interviewing experts and aligning priorities for next year."
 date: 2023-11-17
+tags:
+  - Weeknotes
 ---
 
 <figure>

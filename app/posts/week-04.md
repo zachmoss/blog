@@ -2,6 +2,8 @@
 title: "Week 4"
 description: "Shiny new website designs (and dogs)"
 date: 2022-11-18
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-04-735a5e0d.jpeg)

@@ -2,13 +2,15 @@
 title: "Week 2"
 description: "Weeknotes to become…breaknotes?"
 date: 2022-11-04
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-02-f2f0b630.jpeg)
 
 Breakfast Roll — 7/10 (a tad too burger’y)
 
-* I’m still getting used to the idea of weeknotes. Since [last week](https://medium.com/@%5Fzachmoss/week-1-3bcdc379e007) I’ve wondered whether these are weeknotes for work, or more of a personal thing? Maybe it’s somewhere in between. I’m also thinking ‘teamnotes’ might work well for us at Compassion in Dying, apparently [BERG](http://berglondon.com/blog/) did this well.
+* I’m still getting used to the idea of weeknotes. Since [last week](/posts/week-01/) I’ve wondered whether these are weeknotes for work, or more of a personal thing? Maybe it’s somewhere in between. I’m also thinking ‘teamnotes’ might work well for us at Compassion in Dying, apparently [BERG](http://berglondon.com/blog/) did this well.
 * [Alice Bartlett](https://twitter.com/alicebartlett) calls her posts ‘[weaknotes](https://alicebartlett.co.uk/blog/)’ which I like. She says it’s because they’re quite bad — I think they’re excellent.
 * In the spirit of weaknotes, I wrote this post during and after eating a breakfast roll (see pic above). I might make this a weekly thing to incentivise myself to write by having a nice breakfast as a reward…
 

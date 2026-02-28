@@ -2,6 +2,8 @@
 title: "Week 1"
 description: "Ok fine, I’ll try weeknotes"
 date: 2022-10-26
+tags:
+  - Weeknotes
 ---
 
 * After nearly 5 years of managing a blog, I’ve decided to try [weeknotes](https://gilest.org/weeknotes-tips.html) because I’ve struggled with what [Giles Turnbull](https://twitter.com/gilest) called ‘publishing momentum’.

@@ -2,6 +2,8 @@
 title: "Week 17"
 description: "Thinking about how best to share"
 date: 2023-08-04
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-17-49309e76.jpeg)

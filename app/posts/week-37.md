@@ -2,9 +2,11 @@
 title: "Week 37: forgiveness and new energy"
 description: "Back from a 3-month sabbatical in Japan with renewed energy and motivation."
 date: 2025-09-04
+tags:
+  - Weeknotes
 ---
 
-Forgive me father, it's been 258 days since my [last weeknote](https://zachmoss.co.uk/week-36-thinking-about-this-past-year). It's bad, very bad. There's something about the name weeknotes isn't there, when you stop writing it's maybe even worse?
+Forgive me father, it's been 258 days since my [last weeknote](/posts/yearnote-2024/). It's bad, very bad. There's something about the name weeknotes isn't there, when you stop writing it's maybe even worse?
 Hey ho.
 My last weeknote was in fact at the end of 2024. I outlined my 2025 plans as:
 

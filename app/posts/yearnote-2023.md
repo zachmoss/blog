@@ -1,7 +1,9 @@
 ---
-title: "Week 25: thinking about this past year"
+title: "Yearnote: 2023"
 description: "Annual review — work, a health scare, a new relationship and lessons about mortality."
 date: 2023-12-22
+tags:
+  - Yearnotes
 ---
 
 <figure>
@@ -9,14 +11,14 @@ date: 2023-12-22
   <figcaption>Paris ❤️</figcaption>
 </figure>
 
-Looking back at [my reflections at end of 2022](https://medium.com/@_zachmoss/week-7-b149b2a01cab) I'm struck by how much there was to ponder. Some really big things. I thought about [funeral literacy](https://medium.com/@_zachmoss/week-5-5673d791ff42) and how we're all a bit uncomfortable around death and dying. I also had the [biggest health scare of my life](https://medium.com/@_zachmoss/week-6-63294f62ee7e) which thankfully ended without bad news, in fact quite the opposite.
+Looking back at [my reflections at end of 2022](/posts/yearnote-2022/) I'm struck by how much there was to ponder. Some really big things. I thought about [funeral literacy](/posts/week-05/) and how we're all a bit uncomfortable around death and dying. I also had the [biggest health scare of my life](/posts/week-06/) which thankfully ended without bad news, in fact quite the opposite.
 
 Again I find it hard to think back on a whole year and pick out moments, so I'll reflect on my 2022 list.
 
 ## Work
-It's funny I still think of myself as a boomerang employee despite having been back for two years. Reflecting on another year of work - I'm still thankful to work in a sector and on issues that are [intellectually challenging](https://medium.com/@_zachmoss/week-20-94e120f559df). 
+It's funny I still think of myself as a boomerang employee despite having been back for two years. Reflecting on another year of work - I'm still thankful to work in a sector and on issues that are [intellectually challenging](/posts/week-20/). 
 
-The problems are gnarly, the topic is deep and important and my colleagues are great. It's a fine balance though. This year has shown how tough it can be working around death and dying. Everything and everyone can seem fine and resilient… until they're not. No one is immune from stress and burnout. I said [I don't have any answers](https://zachmoss.co.uk/week-24-resilience-and-my-reading), but I do think we're aware of it which is a first step. 
+The problems are gnarly, the topic is deep and important and my colleagues are great. It's a fine balance though. This year has shown how tough it can be working around death and dying. Everything and everyone can seem fine and resilient… until they're not. No one is immune from stress and burnout. I said [I don't have any answers](/posts/week-24/), but I do think we're aware of it which is a first step. 
 
 Oh, soon I won't be the only boomerang 🪃.
 
@@ -51,11 +53,11 @@ I'm grateful for lots of trips, but was talking recently how I'm hankering for a
 ## A health scare, and what it led to
 So, best till last...
 
-My [first ever proper health scare](https://medium.com/@_zachmoss/week-6-63294f62ee7e) changed my life. I'm very very lucky that for me, it was in the best way possible. I remember at the time being very aware that for loads of people these health scares end up with awful news. I'm still a bit reticent to talk about it so openly, but weeknotes innit. 
+My [first ever proper health scare](/posts/week-06/) changed my life. I'm very very lucky that for me, it was in the best way possible. I remember at the time being very aware that for loads of people these health scares end up with awful news. I'm still a bit reticent to talk about it so openly, but weeknotes innit. 
 
 Anyway, for someone with a health anxiety the whole experience made me double down on an already formed view that **life is short**. Working where I work it's hard NOT to think in this way, but this really crystallised my outlook on life. Health changes at the drop of a hat. One moment you're fine, plodding through life and within what seems like a second - it can all change.
 
-In my [2022 reflection](https://medium.com/@_zachmoss/week-7-b149b2a01cab) I said I'd use this to guide my decisions even more in the year ahead. What I didn't quite expect was that it's led me into my first ever long-term, loving relationship. Those that know me may laugh that this is what it took, but it really is funny what an impending colonoscopy will do. It's all a matter of perspective. 
+In my [2022 reflection](/posts/yearnote-2022/) I said I'd use this to guide my decisions even more in the year ahead. What I didn't quite expect was that it's led me into my first ever long-term, loving relationship. Those that know me may laugh that this is what it took, but it really is funny what an impending colonoscopy will do. It's all a matter of perspective. 
 
 For years, I was someone who genuinely enjoyed being single - and the solitude it brings. Now I'm living with someone I love doing all the usual couple things. Who'd a thunk it? Not me.
 

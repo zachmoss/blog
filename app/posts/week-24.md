@@ -2,6 +2,8 @@
 title: "Week 24: Resilience and my reading"
 description: "Pandemic impacts, burnout and launching a new website for weeknotes."
 date: 2023-12-15
+tags:
+  - Weeknotes
 ---
 
 <figure>

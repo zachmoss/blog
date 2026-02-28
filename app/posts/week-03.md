@@ -2,6 +2,8 @@
 title: "Week 3"
 description: "GP IT systems, posh paper and holiday"
 date: 2022-11-11
+tags:
+  - Weeknotes
 ---
 
 ![A picture of a box set of walking guides I ordered recently. An example of posh paper!](/images/week-03-6593d4dc.jpeg)

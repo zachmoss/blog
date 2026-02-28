@@ -2,6 +2,8 @@
 title: "Week 14"
 description: "Appointments, agencies, and sensitively asking about pregnancy."
 date: 2023-04-21
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-14-cf919b1e.jpeg)
@@ -13,7 +15,7 @@ Breakfast Bun at Catalyst Cafe — 9/10
 * Our project re-building our advance decision service has become challenging in a few ways.
 * Partly there is a question of agency fit — do we have the right partners, and do we work in a way which lends itself to agile delivery? For example, we have very good in-house capability in content design and user research. Less so service design and tech. So how do you procure a partner effectively in this situation to re-build a mission critical digital service? I think this is actually VERY difficult to do.
 * I am starting to reflect that perhaps our size and setup lends itself better to working with skilled freelancers/contractors rather than agencies — however that doesn’t quite work when you need to find a technology partner to build, host and support a live service. Tricky business.
-* Another big part is that our service (and the policy space it sits within) is just very complicated. I’ve [talked before about us being experts](https://medium.com/@%5Fzachmoss/week-12-9db97fee6942), and I’ve always worried how well _any_ external supplier, freelancer can understand the problem space quickly enough.
+* Another big part is that our service (and the policy space it sits within) is just very complicated. I’ve [talked before about us being experts](/posts/week-12/), and I’ve always worried how well _any_ external supplier, freelancer can understand the problem space quickly enough.
 * Let me give you a specific example…
 * When completing an [advance decision to refuse treatment](https://compassionindying.org.uk/how-we-can-help/living-will-advance-decision/), we need to ask people whether they are (or are intending to become) pregnant…
 * This is because if you are pregnant, in your advance decision it is a good idea to make clear whether your refusals of treatment will apply during the pregnancy.

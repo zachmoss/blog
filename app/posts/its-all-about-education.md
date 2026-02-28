@@ -4,7 +4,7 @@ description: "Using our FOI results to plan education and training for healthcar
 date: 2025-11-06
 ---
 
-After [last week’s write-up](https://zachmoss.co.uk/why-and-how-we-decided-to-submit-a-freedom-of-information-request-to-nhs-trusts) about the NHS FOI workshop we ran, the outstanding task was to basically decide... what next?
+After [last week’s write-up](/posts/why-and-how-we-decided-to-submit-a-freedom-of-information-request-to-nhs-trusts/) about the NHS FOI workshop we ran, the outstanding task was to basically decide... what next?
 
 Often when I run workshops, there is a lot of energy upfront and on the day. The follow-up is often where there is a bit of a drop in terms of energy. Both from myself and others.
 

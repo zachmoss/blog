@@ -2,6 +2,8 @@
 title: "Week 8"
 description: "The long slog, nearly done"
 date: 2023-01-13
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-08-db00db46.jpeg)

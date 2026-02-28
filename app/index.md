@@ -21,5 +21,7 @@ related:
           href: /now/
         - text: Blogroll
           href: /blogroll/
+        - text: Categories
+          href: /categories/
 ---
 

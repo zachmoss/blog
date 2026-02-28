@@ -27,3 +27,7 @@ $_accent_colour_visited: #8a6b5a;
 .app-header__logotype {
   font-weight: bold;
 }
+
+.app-document-list__attribute:last-child:not(:first-child) {
+  display: none;
+}

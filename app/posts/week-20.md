@@ -2,11 +2,13 @@
 title: "Week 20"
 description: "Digging into mediation"
 date: 2023-10-27
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-20-9e8d0f4b.jpeg)
 
-My [last weeknote](https://medium.com/@%5Fzachmoss/week-19-f5332f75009e) mentioned how we wanted to explore if mediation could play a role in our services. Specifically, is mediation something we could signpost or offer to people who found themselves in a dispute with medical professionals?
+My [last weeknote](/posts/week-19/) mentioned how we wanted to explore if mediation could play a role in our services. Specifically, is mediation something we could signpost or offer to people who found themselves in a dispute with medical professionals?
 
 During some desk research I stumbled across a very helpful piece of research about the [use of mediation to resolve medical treatment disputes](https://www.essex.ac.uk/research-projects/mediation-of-medical-treatment-disputes-a-therapeutic-justice-model). The researcher Dr Jaime Lindsey has kindly offered up some time to chat to us about the project and also sent through some reading — so we’re well on our way.
 

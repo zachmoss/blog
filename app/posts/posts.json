@@ -3,5 +3,22 @@
   "author": {
     "name": "Zach Moss",
     "url": "https://zachmoss.co.uk/"
+  },
+  "aside": {
+    "title": "Summary",
+    "content": "This is my blog where I mostly write weeknotes. Not to be confused with my <a class=\"govuk-link\" href=\"https://zachmoss.github.io/allotmentnotes/\">allotment blog</a>."
+  },
+  "related": {
+    "sections": [
+      {
+        "title": "Links",
+        "items": [
+          { "text": "About", "href": "/about/" },
+          { "text": "What I'm doing now", "href": "/now/" },
+          { "text": "Blogroll", "href": "/blogroll/" },
+          { "text": "Categories", "href": "/categories/" }
+        ]
+      }
+    ]
   }
 }

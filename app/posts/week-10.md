@@ -2,6 +2,8 @@
 title: "Week 10"
 description: "Car parks, synagogue and good food"
 date: 2023-02-17
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-10-4b87b890.jpeg)

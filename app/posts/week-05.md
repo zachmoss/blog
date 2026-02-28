@@ -2,6 +2,8 @@
 title: "Week 5"
 description: "Pattern libraries and funerals"
 date: 2022-11-25
+tags:
+  - Weeknotes
 ---
 
 ![](/images/week-05-db01c988.jpeg)

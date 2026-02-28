@@ -2,6 +2,8 @@
 title: "Week 26: findings, oh shit banners, reading age and the power of TV"
 description: "User research findings, content readability and the power of TV."
 date: 2024-01-19
+tags:
+  - Weeknotes
 ---
 
 <figure>

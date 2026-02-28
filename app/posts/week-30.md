@@ -2,9 +2,11 @@
 title: "Week 30: how to prioritise internal systems and needs"
 description: "Proposing an internal knowledge base to retain what we know and improve consistency."
 date: 2024-05-17
+tags:
+  - Weeknotes
 ---
 
-My [last weeknote](https://zachmoss.co.uk/week-29-dnr-decisions-conscious-competence-and-prototyping) explained how I'd been playing around with the [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk/docs/) to mock-up our page on best interests decisions. It worked really well for us being able to spin up a page quickly, utilising the rich GOV.UK design system to test various ways of presenting content to our users.
+My [last weeknote](/posts/week-29/) explained how I'd been playing around with the [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk/docs/) to mock-up our page on best interests decisions. It worked really well for us being able to spin up a page quickly, utilising the rich GOV.UK design system to test various ways of presenting content to our users.
 
 So well in fact that I feel like I've managed to transition into wearing an interaction design hat for the past few weeks. An ill-fitting hat, but one that I think I'm becoming more comfortable wearing.
 

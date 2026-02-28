@@ -2,6 +2,8 @@
 title: "Week 22: Closure, catharsis and crimping"
 description: "Starting user research with real people and why talking about trauma can be cathartic."
 date: 2023-11-24
+tags:
+  - Weeknotes
 ---
 
 * A team meeting threw up a fascinating insight last week. As a charity helping people through difficult situations at the end of life, we don’t always hear back from people about how things ended. It’s not that we need to know… but I just thought it’s an interesting thing to ponder. Would we improve staff welfare and satisfaction if we got more ‘closure’ from our work? Would we be able to develop a better service if we knew more of what advice worked vs didn’t work?

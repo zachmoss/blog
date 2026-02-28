@@ -9,9 +9,12 @@ export default function(eleventyConfig) {
         permalink: '/posts/feed.xml',
         title: 'Zach Moss'
       },
-      tags: false,
+      tags: {
+        title: 'Categories',
+        permalink: '/categories/'
+      },
       searchIndex: false,
-      sitemap: false
+      sitemap: true
     },
     header: {
       logotype: {

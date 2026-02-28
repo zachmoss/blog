@@ -2,6 +2,8 @@
 title: "Week 32: alignment and expectations"
 description: "Addressing team communication gaps and planning an internal knowledge base workshop."
 date: 2024-06-21
+tags:
+  - Weeknotes
 ---
 
 <figure>
@@ -16,7 +18,7 @@ I think we may have got to a better place, with some frank conversations and qui
 I'd thought me using this blog as an outlet was part of that but I think over time as I've switched from our original [work Medium publication](https://medium.com/death-dying-and-digital) to this [personal blog](https://zachmoss.co.uk/) that's changed. It's turned into a much more personal reflective space rather than a constructive working out loud mechanism. Something to think about.
 
 ## Prioritising the plumbing
-Linked to the above, had some productive conversations about our [internal knowledge base](https://zachmoss.co.uk/week-30-how-to-prioritise-internal-systems-and-needs). We've scheduled a workshop for a couple weeks to flesh out some of the key aims of this piece of work. It feels like it's a piece of work that has the *potential* to really change the way we work for the better. Building and professionalising our service for the short, medium and long-term. It feels really important.
+Linked to the above, had some productive conversations about our [internal knowledge base](/posts/week-30/). We've scheduled a workshop for a couple weeks to flesh out some of the key aims of this piece of work. It feels like it's a piece of work that has the *potential* to really change the way we work for the better. Building and professionalising our service for the short, medium and long-term. It feels really important.
 
 On the other hand, I am quite conscious of if it turning into one of those frankenstein projects - where the 'thing' turns into a thing to fix everything for everybody. That feels too ambitious and almost setting us up for failure and unmet expectations. Hence the workshop. 
 
