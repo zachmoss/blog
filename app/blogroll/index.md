@@ -16,7 +16,7 @@ Also, because I don't like RSS feed readers and inspired by [Stefano Verna](http
 ### [{{ blog.name }}]({{ blog.url }})
 
 {% if blog.posts.length %}
-Latest posts:
+Last 3 posts:
 
 <ul class="govuk-list govuk-list--bullet">
 {% for post in blog.posts %}

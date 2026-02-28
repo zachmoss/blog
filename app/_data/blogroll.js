@@ -9,7 +9,7 @@ const blogs = [
   { name: 'Steve Messer', url: 'https://visitmy.website/tag/weeknotes/', feed: 'https://visitmy.website/feed.xml' },
   { name: 'Giles Turnbull', url: 'https://gilest.org/index.html', feed: 'https://gilest.org/feed/index.xml' },
   { name: 'Alice Bartlett', url: 'https://alicebartlett.co.uk/blog/', feed: 'https://alicebartlett.co.uk/feed.xml' },
-  { name: 'Helen Lewis', url: 'https://helenlewis.substack.com/', feed: 'https://helenlewis.substack.com/feed' },
+  { name: 'James Higgott', url: 'https://jiggott.medium.com/', feed: 'https://medium.com/feed/@jiggott' },
   { name: 'Matt Jukes', url: 'https://digitalbydefault.com/', feed: 'https://digitalbydefault.com/feed/' },
   { name: 'Himal Mandalia', url: 'https://himalmandalia.medium.com/', feed: 'https://medium.com/feed/@himalmandalia' },
   { name: 'Frankie Roberto', url: 'https://frankieroberto.github.io/nhsnotes/', feed: 'https://frankieroberto.github.io/nhsnotes/posts/feed.xml' },
