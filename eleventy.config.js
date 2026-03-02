@@ -47,6 +47,7 @@ export default function(eleventyConfig) {
     },
     themeColor: '#c45d2c',
     stylesheets: ['/assets/styles.css'],
+    opengraphImageUrl: '/images/opengraph-image.png',
     titleSuffix: 'Zach Moss',
     url: process.env.GITHUB_ACTIONS && 'https://www.zachmoss.co.uk/'
   })
