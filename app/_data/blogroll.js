@@ -13,7 +13,8 @@ const blogs = [
   { name: 'Matt Jukes', url: 'https://digitalbydefault.com/', feed: 'https://digitalbydefault.com/feed/' },
   { name: 'Himal Mandalia', url: 'https://himalmandalia.medium.com/', feed: 'https://medium.com/feed/@himalmandalia' },
   { name: 'Frankie Roberto', url: 'https://frankieroberto.github.io/nhsnotes/', feed: 'https://frankieroberto.github.io/nhsnotes/posts/feed.xml' },
-  { name: 'Tom Loosemore', url: 'https://loosemore.com/', feed: 'https://loosemore.com/feed/' }
+  { name: 'Tom Loosemore', url: 'https://loosemore.com/', feed: 'https://loosemore.com/feed/' },
+  { name: 'Irina Pencheva', url: 'https://irinapencheva.com/', feed: 'https://irinapencheva.com/feed/' }
 ]
 
 export default async function () {
