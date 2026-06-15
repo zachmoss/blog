@@ -21,7 +21,7 @@ I work at [Compassion in Dying](https://compassionindying.org.uk/). Have done fo
 
 It's in the field of death and dying, which can be difficult at times but it is fulfilling. Let's just say it provides some healthy (and unhealthy) perspective.
 
-I'm kind of a digital person, but in many ways a generalist. I work at a small charity, so by necessity (but also curiosity) I dabble in content design, user research, interaction design, technical stuff and more.
+I'm kind of a digital person, but in many ways a generalist or '[conductor](https://buttondown.com/tumshie/archive/good-conductors-required/)'. I work at a small charity, so by necessity (but also curiosity) I dabble in product management, content design, user research, interaction design, technical stuff and more.
 
 ## This website
 Most of the code for this website was ~~stolen~~ copied from [Frankie Roberto](https://github.com/frankieroberto). Thanks to him. And to the talented people at GOV.UK who put together [this handy website](https://govuk-eleventy-plugin.x-govuk.org/).
