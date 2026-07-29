@@ -13,7 +13,7 @@ export default function(eleventyConfig) {
         title: 'Categories',
         permalink: '/categories/'
       },
-      searchIndex: false,
+      searchIndex: true,
       sitemap: true
     },
     header: {
@@ -21,7 +21,11 @@ export default function(eleventyConfig) {
         text: 'Zach Moss'
       },
       productName: "",
-      organisationName: "Zach Moss"
+      organisationName: "Zach Moss",
+      search: {
+        indexPath: '/search-index.json',
+        sitemapPath: '/sitemap'
+      }
     },
     footer: {
       copyright: {
