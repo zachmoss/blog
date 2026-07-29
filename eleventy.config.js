@@ -53,7 +53,7 @@ export default function(eleventyConfig) {
     stylesheets: ['/assets/styles.css'],
     opengraphImageUrl: '/images/opengraph-image.png',
     titleSuffix: 'Zach Moss',
-    url: process.env.GITHUB_ACTIONS && 'https://www.zachmoss.co.uk/'
+    url: process.env.GITHUB_ACTIONS && 'https://zachmoss.co.uk/'
   })
 
   // Collections
