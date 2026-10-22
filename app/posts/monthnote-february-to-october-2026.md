@@ -1,6 +1,6 @@
 ---
 title: "Monthnote: February to October 2026"
-description: "Growing organisational debt, a governance crisis and the decision to leave."
+description: "A crisis at work, and calling time on the job. Time for something new."
 date: 2026-10-22
 tags:
   - Monthnotes
